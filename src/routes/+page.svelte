@@ -8,7 +8,7 @@
 		<div class="name">
 			<h5><b>vraj</b>shah</h5>
 			<p>
-				(works at <a href="http://www.bluelearn.in" target="_blank" rel="noopener noreferrer"
+				(buiding <a href="http://www.bluelearn.in" target="_blank" rel="noopener noreferrer"
 					>bluelearn</a
 				>)
 			</p>
